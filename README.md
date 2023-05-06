@@ -1,2 +1,2 @@
 # KMeansClustering
-Using iris Dataset, predicting the optimum number of clusters  and represent it visually using Python
+Using iris Dataset, predicting the optimum number of clusters  and representing it visually using Python
